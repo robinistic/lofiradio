@@ -1,0 +1,25 @@
+// const anxietyRelief = {
+//     title: "Calm your anxiety",
+//     videoID: "zPyg4N7bcHM",
+//     imgUrl: "https://i.pinimg.com/originals/21/64/82/216482acc7b72fd454dff34c272cecf3.gif"
+// };
+// function opacitydown() {
+//     document.querySelector("#albArt").style.opacity = '50%'
+// }
+// function opacityup() {
+//     document.querySelector("#albArt").style.opacity = '100%'
+// }
+// function songChanger(videoidpara, songTitle, albumart, startTime) {
+//     document.querySelector('iframe').src = "https://youtube.com/embed/" + videoidpara + "?autoplay=1&controls=0&showinfo=0&autohide=1"+'?start='+ Math.floor(Math.random() * 1500);;
+//     document.querySelector(".musicInfo").innerText = songTitle;
+//     document.querySelector("#albArt").src = albumart;
+//     document.querySelector("#albArt").style.opacity = '100%'
+// }
+// function songStoper() {
+//     document.querySelector('iframe').src = "https://youtube.com/embed/" + "0" + "?autoplay=1&controls=0&showinfo=0&autohide=1";
+// }
+
+
+<!-- <iframe frameborder="0" id="video" width="0%" height="0%"
+            src="https://youtube.com/embed/DpVTOhrbUgs?autoplay=1&controls=0&showinfo=0&autohide=1">
+        </iframe> -->
